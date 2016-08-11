@@ -42,4 +42,4 @@
 40. Apenas deve-se destruir a estrela da morte por dentro.
 41. Se voce encontrar o sabre de luz de Luke Skyewalker voce passara a dar dano duplicado.
 42. Quando destruir uma nave inimiga reportar a seus superiores.
-46. Caso voce vença dez partidas seguidas, voce recebe o direito de pedir tres tiros de apoio para a estrela da morte.
+43. Caso voce vença dez partidas seguidas, voce recebe o direito de pedir tres tiros de apoio para a estrela da morte.
